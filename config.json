@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesalculate",
+        "uuid": 2085852,
+        "checksum": "dsj0ol"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
